@@ -22,6 +22,7 @@ The following labs components have been promoted to GA and are no longer here:
 - DataStax Early Adopter Release - [DataStax Enterprise 6.8.0](https://docs.datastax.com/en/landing_page/doc/landing_page/current.html#DataStaxEnterprise)
 - DataStax Graph Labs - [DataStax Enterprise 6.8.0](https://docs.datastax.com/en/landing_page/doc/landing_page/current.html#DataStaxEnterprise)
 - DataStax Kubernetes Operator - [DataStax Kubernetes Operator for Apache Cassandra](https://github.com/datastax/cass-operator)
+- DataStax Desktop - [DataStax Desktop](https://downloads.datastax.com/#desktop)
 
 ## Support
 
